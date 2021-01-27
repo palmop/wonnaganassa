@@ -3,7 +3,7 @@ module.exports = {
     title: `wonnaganassa`,
     author: {
       name: `Paolo Palmonari`,
-      summary: `I go to work by bicycle every day`,
+      summary: `(si sta come in pandemia sulle sedie gli umani)`,
     },
     description: `try to play with gatsby starter blog`,
     siteUrl: `https://wonnaganassa.gtsb.io/`,
